@@ -127,7 +127,7 @@ def format_lin(linha):
     #print(elemento)
     return list(elemento)
 
-process = open("instancia.txt", "r")
+process = open("proj1.txt", "r")
 processo = map(lambda linha: format_lin(linha), process)
 processo = list(processo)
 #print(processo)
