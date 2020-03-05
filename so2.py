@@ -1,4 +1,4 @@
-#print("proj 2")
+#print("proj 2 - Faltas de espaço na memória")
 
 def FIFO(fifo, memory2, tam_memory, faltas, count): 
     """[FIFO]
